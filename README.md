@@ -1,5 +1,6 @@
 # README
 WriteWall
+
 A simple Blog App using Ruby on Rails
 
 Index Page
