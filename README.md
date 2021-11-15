@@ -1,24 +1,15 @@
 # README
+WriteWall
+A simple Blog App using Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Index Page
+![Screenshot](writewall1.jpg)
 
-Things you may want to cover:
+Create New Blog
+![Screenshot](writewall2.jpg)
 
-* Ruby version
+View All Blogs
+![Screenshot](writewall3.jpg)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Edit or Delete a blog + View Comments
+![Screenshot](writewall4.jpg)
